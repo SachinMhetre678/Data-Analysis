@@ -21,7 +21,8 @@ Here are some of the key projects included in this repository:
 
 - **Cricket T20 World Cup Analysis** 🏏  
   Leveraging player data from the 2022 T20 World Cup to create a dream team of the "Best 11" players.
-
+- **Real-Time Dashboard Building with Industry Experts** 📊  
+  An end-to-end dashboard project covering business requirement gathering, data transformation with Power Query, metric creation using DAX, and stakeholder review for real-world analytics insights.
 ---
 
 ## ⚙️ Getting Started
